@@ -4,7 +4,7 @@ A simple command-line note-taking app built with Node.js.
 
 ## Intro
 
-This Node.js application allows you to easily manage your notes through the command line. It provides basic functionalities such as adding, removing, listing, and reading notes.
+This Node.js application allows you to manage your notes through the command line. Functionalities includes; adding, removing, listing, and reading notes.
 
 ## Features
 
